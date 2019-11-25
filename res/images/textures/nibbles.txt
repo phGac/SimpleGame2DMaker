@@ -1,0 +1,8 @@
+image:
+
+http://image.dosgamesarchive.com/screenshots/nibbles4.gif
+
+
+colors:
+
+https://labs.tineye.com/color/73f5a0d6ebb24f2e9b7fce30b3eb9c8cc7fcf501?ignore_background=True&width=250&color_format=hex&ignore_interior_background=True&height=156
