@@ -1,9 +1,0 @@
-g2dmaker
-g2dmaker.control
-g2dmaker.entities
-g2dmaker.graphics
-g2dmaker.graphics.map
-g2dmaker.graphics.sprite
-g2dmaker.managers
-g2dmaker.managers.queue
-g2dmaker.tools
